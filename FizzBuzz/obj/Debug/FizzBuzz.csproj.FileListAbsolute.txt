@@ -1,0 +1,17 @@
+C:\Users\FranchoG\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\FranchoG\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\FranchoG\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\FranchoG\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\FranchoG\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\FranchoG\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\FranchoG\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\FranchoG\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Library.dll
+C:\Users\FranchoG\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Library.pdb
+C:\Users\esu00756\Documents\Visual Studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\esu00756\Documents\Visual Studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\esu00756\Documents\Visual Studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\esu00756\Documents\Visual Studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\esu00756\Documents\Visual Studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\esu00756\Documents\Visual Studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Library.dll
+C:\Users\esu00756\Documents\Visual Studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Library.pdb
+C:\Users\esu00756\Documents\Visual Studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
