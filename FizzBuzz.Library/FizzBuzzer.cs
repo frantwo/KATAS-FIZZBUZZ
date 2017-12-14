@@ -12,6 +12,7 @@ namespace FizzBuzz.Library
         {
             string output = string.Empty;            
             string inputstr = input.ToString();
+
             if (input % 3 == 0 || inputstr.Contains("3"))
                 output += "Fizz";
             if (input % 5 == 0 || inputstr.Contains("5"))
